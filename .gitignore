@@ -1,0 +1,6 @@
+paysim.csv
+rf_fraud_model/
+best_fraud_model/
+checkpoint_dir/
+__pycache__/
+.DS_Store
